@@ -48,22 +48,6 @@ The dataset is based on the work by O. Parr-Rud, described in *Business Analytic
 
 The main objective is to train a predictive model which allows the company to maximize the profit of the next marketing campaign and better understand customer segments.
 
-### Usability
-
-9.12
-
-### License
-
-Other (specified in description)
-
-### Expected Update Frequency
-
-Never
-
-### Tags
-
-Business, Classification
-
 ## Project Description
 
 ### Customer Segmentation Analysis
@@ -92,24 +76,6 @@ Below, you will find the characteristics of each cluster represented in bar plot
 
 ![Cluster 5 Characteristics](path/to/cluster5.png)
 
-### Predictive Modeling
-
-In addition to clustering, we developed a predictive model to forecast customer responses to marketing campaigns. This model helps in identifying potential responders, thereby enabling more targeted and cost-effective marketing strategies.
-
 ## Conclusion
 
 The customer segmentation analysis provides valuable insights into different customer groups, helping to tailor marketing strategies more effectively. The predictive model further optimizes marketing efforts by identifying likely responders, maximizing campaign profitability.
-
-## Getting Started
-
-### Prerequisites
-
-- Python 3.x
-- Required libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
-
-### Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/customer-segmentation-marketing-response.git
