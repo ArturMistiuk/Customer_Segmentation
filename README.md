@@ -1,4 +1,4 @@
-# Customer Segmentation and Marketing Campaign Response Prediction
+# Customer Segmentation and Marketing Campaign Response
 
 ## Project Overview
 
