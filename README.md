@@ -58,7 +58,7 @@ Below, you will find the characteristics of each cluster represented in bar plot
 
 #### Cluster 1
 
-![Cluster 1 Characteristics](path/to/cluster1.png)
+![Cluster 1 Characteristics](path/to/Customer_Distribution_by_Cluster.png)
 
 #### Cluster 2
 
