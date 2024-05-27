@@ -56,9 +56,11 @@ To better understand the customer base, we performed clustering using the KMeans
 
 Below, you will find the characteristics of each cluster represented in bar plots.
 
-#### Cluster 1
+Let's start with the overall percentage distribution of clusters
 
 ![Cluster 1 Characteristics](Customer_Distribution_by_Cluster.png)
+
+#### Cluster 1
 
 #### Cluster 2
 
