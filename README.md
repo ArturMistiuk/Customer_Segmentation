@@ -54,11 +54,33 @@ The main objective is to train a predictive model which allows the company to ma
 
 To better understand the customer base, we performed clustering using the KMeans algorithm. Customers were grouped into 5 distinct clusters based on their purchasing behaviors, demographics, and response patterns to marketing campaigns.
 
+Let's start with the name and short description of each cluster, as well as the overall percentage distribution of the clusters.
+
+#### Moderate Income
+
+Moderate income, average number of children, high spending on wine, moderate spending on other products, frequent online and in-store purchases.
+
+#### Low-Income Families with Many Children
+
+Low income, highest number of children, low spending on all product categories, infrequent purchases.
+
+#### Premium Consumers
+
+High income, few children, high spending on all product categories, frequent purchases.
+
+#### High-Income Gourmets
+
+Very high income, almost no children, very high spending on wine and meat, moderate spending on other products, frequent purchases.
+
+#### Frugal Consumers
+
+Low income, average number of children, low spending on all product categories, infrequent purchases.
+ 
+![Cluster 1 Characteristics](Customer_Distribution_by_Cluster.png)
+
 Below, you will find the characteristics of each cluster represented in bar plots.
 
 #### Cluster 1
-
-![Cluster 1 Characteristics](path/to/cluster1.png)
 
 #### Cluster 2
 
