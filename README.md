@@ -60,7 +60,7 @@ Let's start with the name and short description of each cluster, as well as the 
 
 Moderate income, average number of children, high spending on wine, moderate spending on other products, frequent online and in-store purchases, often make web purchases and have highest membership.
 
-#### Low-Income Families with Many Children
+#### Low-Income Large Families
 
 Low income, highest number of children, low spending on all product categories, infrequent purchases.
 
