@@ -60,11 +60,6 @@ Let's start with the name and short description of each cluster, as well as the 
 
 Moderate income, average number of children, high spending on wine, moderate spending on other products, frequent online and in-store purchases, often make web purchases and have highest membership.
 
-People in this cluster make the most online purchases compared to others.
-
-![Moderate Income Web](Moderate_Income_Web_Purchases.png)
-
-
 #### Low-Income Families with Many Children
 
 Low income, highest number of children, low spending on all product categories, infrequent purchases.
@@ -80,14 +75,16 @@ Very high income, almost no children, very high spending on wine and meat, moder
 #### Frugal Consumers
 
 Low income, average number of children, low spending on all product categories, infrequent purchases.
- 
+
 ![Clusters Distribution](Customer_Distribution_by_Cluster.png)
 
 Below, you will find the characteristics of each cluster represented in bar plots.
 
 #### Moderate Income
 
+People in this cluster make the most online purchases compared to others.
 
+![Moderate Income Web](Moderate_Income_Web_Purchases.png)
 
 #### Cluster 2
 
