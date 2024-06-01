@@ -86,7 +86,7 @@ People in this cluster make the most online purchases compared to others.
 
 ![Moderate Income Web](Moderate_Income_Web_Purchases.png)
 
-#### Cluster 2
+#### Low-Income Large Families
 
 ![Cluster 2 Characteristics](path/to/cluster2.png)
 
