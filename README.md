@@ -88,7 +88,9 @@ People in this cluster make the most online purchases compared to others.
 
 #### Low-Income Large Families
 
-![Cluster 2 Characteristics](path/to/cluster2.png)
+Cluster Low-Income Large Families tends to have biggest amount of children. On average more than 2 kids.
+
+![Cluster 2 Characteristics](Number_of_Children.png)
 
 #### Cluster 3
 
