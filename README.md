@@ -84,23 +84,25 @@ Below, you will find the characteristics of each cluster represented in bar plot
 
 People in this cluster make the most online purchases compared to others.
 
-![Moderate Income Web](Moderate_Income_Web_Purchases.png)
+![Moderate Income Characteristics](Moderate_Income_Web_Purchases.png)
 
 #### Low-Income Large Families
 
 Cluster Low-Income Large Families tends to have biggest amount of children. On average more than 2 kids.
 
-![Cluster 2 Characteristics](Number_of_Children.png)
+![Low-Income Large Families Characteristics](Number_of_Children.png)
 
 #### Premium Consumers
 
 People in this cluster spend the most money on fish and sweets.
 
-![Cluster 3 Characteristics](Premium_Consumers.png)
+![Premium Consumers Characteristics](Premium_Consumers.png)
 
-#### Cluster 4
+#### High-Income Gorumets
 
-![Cluster 4 Characteristics](path/to/cluster4.png)
+The most profitable group for us, which has the highest income among all clusters. They tend to buy expensive wines and consume meat actively.
+
+![High-Income Gorumets Characteristics](High-Income_Gorumets.png)
 
 #### Cluster 5
 
