@@ -92,9 +92,11 @@ Cluster Low-Income Large Families tends to have biggest amount of children. On a
 
 ![Cluster 2 Characteristics](Number_of_Children.png)
 
-#### Cluster 3
+#### Premium Consumers
 
-![Cluster 3 Characteristics](path/to/cluster3.png)
+People in this cluster spend the most money on fish and sweets.
+
+![Cluster 3 Characteristics](Premium_Consumers.png)
 
 #### Cluster 4
 
