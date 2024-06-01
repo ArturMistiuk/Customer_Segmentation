@@ -104,9 +104,11 @@ The most profitable group for us, which has the highest income among all cluster
 
 ![High-Income Gorumets Characteristics](High-Income_Gorumets.png)
 
-#### Cluster 5
+#### Frugal Consumers
 
-![Cluster 5 Characteristics](path/to/cluster5.png)
+People from this group were not at all interested in the meat promotion, and not a single person participated in it.
+
+![Frugal Consumers Characteristics](AcceptedCmp2.png)
 
 ## Conclusion
 
